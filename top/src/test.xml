@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<head>
+	   <description>request header</description>
+	   <option>insert</option>
+	   <type>xml</type>
+	   <isvalid>1</isvalid>
+	   <memo></memo>
+	</head>
+	<body>
+	   <datalist>
+	      <data>
+	          <userid></userid>
+		      <username></username>
+		      <passwd></passwd>
+	      </data>
+	   </datalist>
+	</body>
+
+</root>
