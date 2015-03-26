@@ -10,7 +10,7 @@
   <h1>中文测试</h1>
   <table>
     <tr>
-       <th>test</th>
+       <th>test</th>    
     </tr>
   
   </table>
